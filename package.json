@@ -1,6 +1,6 @@
 {
   "name": "magu-plugin-footnote",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "repository": "nju33/magu-plugin-footnote",
   "main": "./magu-plugin-footnote.js",
