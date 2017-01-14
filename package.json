@@ -1,7 +1,7 @@
 {
   "name": "magu-plugin-footnote",
   "version": "0.0.1",
-  "description": "",
+  "description": "Magu plugin that create footnotes.",
   "repository": "nju33/magu-plugin-footnote",
   "main": "./magu-plugin-footnote.js",
   "scripts": {
